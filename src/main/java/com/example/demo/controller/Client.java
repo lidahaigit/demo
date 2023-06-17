@@ -87,6 +87,7 @@ public class Client {
                     System.out.println(message);
                     System.out.println(message);
                     System.out.println(message+"顶顶顶顶");
+                    System.out.println(message+"顶serererere");
 
                 }
             } catch (IOException e) {
