@@ -75,32 +75,7 @@ public class Client {
                 BufferedReader bf = new BufferedReader(isr);
                 String message ;
                 while ((message= bf.readLine())!=null){
-                    System.out.println(message);
-                    System.out.println(message);
-                    System.out.println(message);
-                    System.out.println(message);
-                    System.out.println(message);
-                    System.out.println(message);
-                    System.out.println(message);
-                    System.out.println(message);
-                    System.out.println(message);
-                    System.out.println(message);
-                    System.out.println(message);
-                    System.out.println(message+"顶顶顶顶");
-                    System.out.println(message+"顶serererere");
-                    System.out.println(message+"顶冲突冲突冲突");
-                    System.out.println(message+"顶冲突冲突冲突");
-                    System.out.println(message+"顶冲突冲突冲突");
-                    System.out.println(message+"顶冲突冲突冲突");
-                    System.out.println(message+"顶冲突冲突冲突");
-                    System.out.println(message+"顶冲突冲突冲突");
-                    System.out.println(message+"顶冲突冲突冲突");
-                    System.out.println(message+"push冲突冲突");
-                    System.out.println(message+"push冲突冲突");
-                    System.out.println(message+"push冲突冲突");
-                    System.out.println(message+"push冲突冲突");
-                    System.out.println(message+"push冲突冲突");
-                    System.out.println(message+"push冲突冲突");
+                  
                     System.out.println(message+"push冲突冲突");
                     System.out.println(message+"push冲突冲突");
                     System.out.println(message+"push冲突冲突");
