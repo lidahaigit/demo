@@ -76,6 +76,10 @@ public class Client {
                 String message ;
                 while ((message= bf.readLine())!=null){
                     System.out.println(message);
+                    System.out.println(message);
+                    System.out.println(message);
+                    System.out.println(message);
+                    System.out.println(message);
 
                 }
             } catch (IOException e) {
