@@ -96,6 +96,14 @@ public class Client {
                     System.out.println(message+"顶冲突冲突冲突");
                     System.out.println(message+"顶冲突冲突冲突");
                     System.out.println(message+"push冲突冲突");
+                    System.out.println(message+"push冲突冲突");
+                    System.out.println(message+"push冲突冲突");
+                    System.out.println(message+"push冲突冲突");
+                    System.out.println(message+"push冲突冲突");
+                    System.out.println(message+"push冲突冲突");
+                    System.out.println(message+"push冲突冲突");
+                    System.out.println(message+"push冲突冲突");
+                    System.out.println(message+"push冲突冲突");
 
                 }
             } catch (IOException e) {
