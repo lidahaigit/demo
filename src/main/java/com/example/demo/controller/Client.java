@@ -89,6 +89,13 @@ public class Client {
                     System.out.println(message+"顶顶顶顶");
                     System.out.println(message+"顶serererere");
                     System.out.println(message+"顶冲突冲突冲突");
+                    System.out.println(message+"顶冲突冲突冲突");
+                    System.out.println(message+"顶冲突冲突冲突");
+                    System.out.println(message+"顶冲突冲突冲突");
+                    System.out.println(message+"顶冲突冲突冲突");
+                    System.out.println(message+"顶冲突冲突冲突");
+                    System.out.println(message+"顶冲突冲突冲突");
+                    System.out.println(message+"顶冲突冲突冲突");
 
                 }
             } catch (IOException e) {
