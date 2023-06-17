@@ -80,6 +80,10 @@ public class Client {
                     System.out.println(message);
                     System.out.println(message);
                     System.out.println(message);
+                    System.out.println(message);
+                    System.out.println(message);
+                    System.out.println(message);
+                    System.out.println(message);
 
                 }
             } catch (IOException e) {
